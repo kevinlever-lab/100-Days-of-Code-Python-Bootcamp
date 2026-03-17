@@ -23,22 +23,22 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | Project Name | Description | Key Libraries/Skills | Link |
 | :--- | :--- | :--- | :--- |
 - [ ] **Beginner Phase :** 
-- | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner - Basics/) |
-- | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner - Basics/Secret Auction) |
-- | **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner Project - Blackjack) |
-- | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner Project - Higher Lower/) |
+| **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner%20-%20Basics/) |
+| **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner%20-%20Basics/) |
+| **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner%20Project%20-%20Blackjack/) |
+| **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher Lower/) |
 - [ ] **Intermediate Phase:**
-- | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./Intermediate Project - Coffee Machine/) |
-- | **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Turtle Racing Game/) |
-- | **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Snake Game/) |
-- | **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Pong Game/) |
-- | **Capstone Project - Turtle Cossing Game** | Game built with GUI. | `turtle`, `OOP`, `classes` | [View Project](./Intermediate Project - Turtle Cossing Game/) |
-- | **Invitations** | Automation for creating invitations. Reading and writing to files.| `pandas`, `Dataframes and Series` | [View Project](./Intermediate Project - Invitations Project/) |
-- | **Squirrel Project** | Reading and writing to csv files.| `pandas`, `Dataframes and Series` | [View Project](./Intermediate Project - Squirrel Project/) |
-- | **NATO Phonetic Alphabet** | Code and decode text.| `List and Dictionary comprehension` | [View Project](./Intermediate Project - NATO phonetic alphabet Project/) |
-- | **Pomodoro Timer Project** | GUI timer.| `Tkinter` | [View Project](./Intermediate Project - Pomodoro Timer Project/) |
-- | **Squirrel Project** | GUI timer | `Tkinter`, `Dataframes and Series` | [View Project](./Intermediate Project - Squirrel Project/) |
-- | **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `Tkinter`, `JSON`, `APIs` | [View Project](./Intermediate Project - Password Manager/) |
+| **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |
+| **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |
+| **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Snake-Game/) |
+| **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |
+| **Capstone Project - Turtle Cossing Game** | Game built with GUI. | `turtle`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Cossing-Game/) |
+| **Invitations** | Automation for creating invitations. Reading and writing to files.| `pandas`, `Dataframes and Series` | [View Project](./IntermediateProject-InvitationsAutomation/) |
+| **Squirrel Project** | Reading and writing to csv files.| `pandas`, `Dataframes and Series` | [View Project](./IntermediateProject-Squirrel-Tracking/) |
+| **NATO Phonetic Alphabet** | Code and decode text.| `List and Dictionary comprehension` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |
+| **Pomodoro Timer Project** | GUI timer.| `Tkinter` | [View Project](./IntermediateProject-Pomodoro-Timer/) |
+| **Squirrel Project** | GUI timer | `Tkinter`, `Dataframes and Series` | [View Project](./IntermediateProject-Squirrel Project/) |
+| **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `Tkinter`, `JSON`, `APIs` | [View Project](./Intermediate Project - Password Manager/) |
 - [ ] **Intermediate+ Phase:** 
 - [ ] **Web Foundation Phase:** 
 - [ ] **Advanced Phase:** 
