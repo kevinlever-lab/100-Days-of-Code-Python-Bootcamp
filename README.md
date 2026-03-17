@@ -7,8 +7,8 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 
 
 ## 🚀 Progress Tracker
-- [ ] **Beginner Phase :** Python Fundamentals (Basics, Logic, Loops) - Completed
-- [ ] **Intermediate Phase:** Intermediate Concepts (OOP, File I/O, Error Handling, GUI)  - Completed
+- [ ] **Beginner Phase :** Python Fundamentals (Basics, Logic, Loops) **- Completed**
+- [ ] **Intermediate Phase:** Intermediate Concepts (OOP, File I/O, Error Handling, GUI)  **- Completed**
 - [ ] **Intermediate+ Phase:** Advanced Applications (Email, APIs, Authentication, Stock Alerts, Tracking with Google Sheets, Flight Finder/Club)
 - [ ] **Web Foundation Phase:** Web Development Fundamentals
 - [ ] **Intermediate+ Phase:** Advanced Applications (Web Scraping, Spotify Playlist, Amazon Tracker, Bot interaction, Web Development)
