@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyCharm/EduTools files
+task.md
+task-info.yaml
+task-remote-info.yaml
+.idea/
