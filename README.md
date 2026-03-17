@@ -23,10 +23,10 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | Project Name | Description | Key Libraries/Skills | Link |
 | :--- | :--- | :--- | :--- |
 - [ ] **Beginner Phase :** 
-- | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](./Beginner - Basics/Guess Number) |
-- | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](./Beginner - Basics/Secret Auction) |
-- | **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](./Beginner Project - Blackjack/) |
-- | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](./Beginner Project - Higher Lower) |
+- | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner - Basics/) |
+- | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner - Basics/Secret Auction) |
+- | **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner Project - Blackjack) |
+- | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner Project - Higher Lower/) |
 - [ ] **Intermediate Phase:**
 - | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./Intermediate Project - Coffee Machine/) |
 - | **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Turtle Racing Game/) |
