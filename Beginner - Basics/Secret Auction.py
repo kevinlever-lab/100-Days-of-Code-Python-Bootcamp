@@ -1,6 +1,11 @@
 import auction_art
 print(auction_art.logo)
-""" Secret Auction - A Dictionary is written to and read from"""
+""" 
+Secret Auction:
+A command-line auction application that collects bids from multiple participants
+and determines the highest bidder.
+A Dictionary is written to and read from
+"""
 secret_auction = {}
 new_bidder = True
 
