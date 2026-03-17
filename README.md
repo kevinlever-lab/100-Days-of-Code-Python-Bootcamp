@@ -29,6 +29,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher%20Lower/) |<br>
 - [ ] **Intermediate Phase:** <br>
 | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |<br>
+| **Quiz Game** |  A command-line card game. | `OOP`| [View Project](./IntermediateProject-Quiz-Game/) |<br>
 | **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
 | **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Snake-Game/) |<br>
 | **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
