@@ -1,6 +1,31 @@
 import guess_number_art
 import random
 
+"""
+Number Guessing Game
+
+A command-line game where the player tries to guess a randomly generated number
+between 1 and 100 within a limited number of attempts.
+
+Process:
+    1. Prompts the player to choose a difficulty level:
+        - 'easy': grants 10 guesses.
+        - 'hard': grants 5 guesses.
+    3. Randomly generates a number between 1 and 100.
+    4. Repeatedly prompts the player to guess the number until:
+        - The player guesses correctly and wins, or
+        - The player runs out of guesses and loses.
+    5. After each incorrect guess, hints are provided:
+        - 'Too low'  - if the guess is below the target number.
+        - 'Too high' - if the guess is above the target number.
+
+Functions:
+    initialize_game(): Displays the logo, sets and returns the number of guesses
+                       based on the chosen difficulty level.
+    user_guess(guesses): Displays remaining guesses, prompts the player for a
+                         guess and returns the entered number.
+"""
+
 game_over = False
 
 
