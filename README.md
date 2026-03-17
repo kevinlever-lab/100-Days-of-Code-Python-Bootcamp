@@ -26,7 +26,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner%20-%20Basics/) |<br>
 | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner%20-%20Basics/) |<br>
 | **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner%20Project%20-%20Blackjack/) |<br>
-| **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher Lower/) |<br>
+| **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher%20Lower/) |<br>
 - [ ] **Intermediate Phase:**
 | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |<br>
 | **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
