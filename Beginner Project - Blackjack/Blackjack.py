@@ -1,7 +1,36 @@
 import art
 import random
 
-""" Blackjack Game with terminal interface"""
+"""
+Blackjack Game
+
+A command-line Blackjack card game played against a computer dealer.
+
+Process:
+    1. Deals two cards each to the player and dealer at the start of each round.
+    2. Prompts the player to draw additional cards ('y') or hold ('n').
+    3. Ends the player's turn automatically if:
+        - A Blackjack is dealt (Ace + 10-value card = 21 in 2 cards).
+        - The player's score exceeds 21 (bust).
+    4. Dealer draws cards automatically until reaching a score of 17 or higher.
+    5. Compares final scores and announces the result.
+    6. Prompts the player to start a new game or quit after each round.
+
+Functions:
+    draw_card():                Returns a randomly drawn card value from a
+                                standard deck, where face cards are worth 10
+                                and Aces start at 11.
+    calculate_score(cards):     Calculates and returns the total score of a
+                                hand, adjusting Aces from 11 to 1 if the total
+                                exceeds 21, and returning 0 for Blackjack.
+    compare_score(u_score,
+                  d_score):     Compares the player's score against the
+                                dealer's score and returns the result as
+                                a string.
+    start_game():               Initializes and runs a single round of
+                                Blackjack, managing the game loop, player
+                                input, dealer logic, and final score display.
+"""
 
 def draw_card():
     """Returns a random number from the list of cards in the list"""
@@ -54,7 +83,7 @@ def start_game():
     while is_game_on:
         user_total = calculate_score(user_cards)
         dealer_total = calculate_score(dealer_cards)
-        print(f"Your cards are {user_cards}, and your total score is {user_total}.\n")
+        print(f"Your cards are {user_cards}, and your total score is {21 if user_total == 0 else user_total}.\n")
 
         #Check for Black Jack or user bust
         if user_total == 0 or dealer_total == 0 or user_total > 21:
@@ -71,10 +100,11 @@ def start_game():
                 print("Invalid input. Please type 'y' or 'n'")
                 is_game_on = False
 
-    # Dealer draw
-    while dealer_total != 0 and dealer_total < 17:
-        dealer_cards.append(draw_card())
-        dealer_total = calculate_score(dealer_cards)
+    # Dealer draw only if user has not busted
+    if user_total <= 21:
+        while dealer_total != 0 and dealer_total < 17:
+            dealer_cards.append(draw_card())
+            dealer_total = calculate_score(dealer_cards)
 
 
     # Compare scores
