@@ -24,6 +24,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | :--- | :--- | :--- | :--- |
 - [ ] **Beginner Phase :** <br>
 | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner%20-%20Basics/) |<br>
+| **Hangman Game** | A command-line Hangman game. | `list`| [View Project](Beginner%20Project%20-%20Hangman/) |<br>
 | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner%20-%20Basics/) |<br>
 | **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner%20Project%20-%20Blackjack/) |<br>
 | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher%20Lower/) |<br>
