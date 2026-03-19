@@ -26,13 +26,13 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner%20-%20Basics/) |<br>
 | **Hangman Game** | A command-line Hangman game. | `list`| [View Project](Beginner%20Project%20-%20Hangman/) |<br>
 | **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner%20-%20Basics/) |<br>
-| **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](Beginner%20Project%20-%20Blackjack/) |<br>
+| **Blackjack Game** | A command-line card game. | `random`, `functions`, `list` | [View Project](Beginner%20Project%20-%20Blackjack/) |<br>
 | **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher%20Lower/) |<br>
 - [ ] **Intermediate Phase:** <br>
 | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |<br>
 | **Quiz Game** |  A command-line card game. | `OOP`| [View Project](./IntermediateProject-Quiz-Game/) |<br>
 | **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
-| **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes`, 'Reading and writing to files' | [View Project](./IntermediateProject-Snake-Game/) |<br>
+| **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes`, `Reading and writing to files` | [View Project](./IntermediateProject-Snake-Game/) |<br>
 | **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
 | **Intermediate Capstone Project - Turtle Cossing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject-Turtle-Crossing-Game/) |<br>
 | **Mail Merge** | Automation for creating personalised invitations.| `Reading and writing to files`, `Text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
