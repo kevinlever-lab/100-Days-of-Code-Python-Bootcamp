@@ -38,9 +38,9 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **Mail Merge** | Automation for creating personalised invitations.| `reading/writing from/to files`, `text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
 | **Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `dataframes`, `querying data`, `reading/writing from/to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
 | **USA States** | GUI game where the player attempts to name all 50 USA states.| `turtle graphics`, `pandas`, `dataframes`, `list comprehension`, `reading/writing from/to files` | [View Project](./IntermediateProject-USA-States/) |<br>
-| **NATO Phonetic Alphabet** | Convert a word with the NATO Phonetic Alphabet.| `pandas`, `data frames`, `dictionary comprehension`, `list comprehension`, 'error handling' | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
+| **NATO Phonetic Alphabet** | Convert a word with the NATO Phonetic Alphabet.| `pandas`, `data frames`, `dictionary comprehension`, `list comprehension`, `error handling` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
 | **Pomodoro Timer Project** | A graphical Pomodoro productivity timer.| `tkinter`, `math`, `functions`, `global variables` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
-| **Password Manager** | A GUI that generates secure passwords and saves/retrieves the web site credentials to/from a JSON file. | `tkinter`, `JSON`, ` tkinter messagebox`, `random`, `pyperclip`, `read/write from/to files`, 'error handling' | [View Project](./IntermediateProject-Password-Manager/) |
+| **Password Manager** | A GUI that generates secure passwords and saves/retrieves the web site credentials to/from a JSON file. | `tkinter`, `JSON`, ` tkinter messagebox`, `random`, `pyperclip`, `read/write from/to files`, `error handling` | [View Project](./IntermediateProject-Password-Manager/) |
 - [ ] **Intermediate+ Phase:** <br>
 - [ ] **Web Foundation Phase:** <br>
 - [ ] **Advanced Phase:** <br>
