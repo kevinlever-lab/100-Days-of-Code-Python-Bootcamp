@@ -31,15 +31,16 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 - [ ] **Intermediate Phase:** <br>
 | **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |<br>
 | **Quiz Game** |  A command-line card game. | `OOP`| [View Project](./IntermediateProject-Quiz-Game/) |<br>
-| **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
-| **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes`, `Reading and writing to files` | [View Project](./IntermediateProject-Snake-Game/) |<br>
-| **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
-| **Intermediate Capstone Project - Turtle Cossing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject-Turtle-Crossing-Game/) |<br>
-| **Mail Merge** | Automation for creating personalised invitations.| `Reading and writing to files`, `Text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
-| **Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `Dataframes`, `Querying data`, `Reading and writing to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
-| **NATO Phonetic Alphabet** | Code and decode text.| `List and Dictionary comprehension` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
-| **Pomodoro Timer Project** | GUI timer.| `Tkinter` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
-| **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `Tkinter`, `JSON`, `APIs` | [View Project](./IntermediateProject-Password-Manager/) |
+| **Turtle Racing Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
+| **Snake Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes`, `reading/writing from/to files` | [View Project](./IntermediateProject-Snake-Game/) |<br>
+| **Pong Game** | The classic Atari game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
+| **Intermediate Capstone Project - Turtle Cossing Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject-Turtle-Crossing-Game/) |<br>
+| **Mail Merge** | Automation for creating personalised invitations.| `reading/writing from/to files`, `text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
+| **Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `dataframes`, `querying data`, `reading/writing from/to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
+| **USA States** | GUI game where the player attempts to name all 50 USA states.| `turtle graphics`, `pandas`, `dataframes`, `list comprehension`, `reading/writing from/to files` | [View Project](./IntermediateProject-USA-States/) |<br>
+| **NATO Phonetic Alphabet** | Code and decode text.| `list and dictionary comprehension` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
+| **Pomodoro Timer Project** | GUI timer.| `tkinter` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
+| **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `tkinter`, `JSON`, `APIs` | [View Project](./IntermediateProject-Password-Manager/) |
 - [ ] **Intermediate+ Phase:** <br>
 - [ ] **Web Foundation Phase:** <br>
 - [ ] **Advanced Phase:** <br>
