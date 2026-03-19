@@ -36,7 +36,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
 | **Intermediate Capstone Project - Turtle Cossing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject-Turtle-Crossing-Game/) |<br>
 | **Mail Merge** | Automation for creating personalised invitations.| `Reading and writing to files`, `Text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
-| **Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `Dataframes`, 'Querying data', 'Reading and writing to files' | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
+| **Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `Dataframes`, `Querying data`, `Reading and writing to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
 | **NATO Phonetic Alphabet** | Code and decode text.| `List and Dictionary comprehension` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
 | **Pomodoro Timer Project** | GUI timer.| `Tkinter` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
 | **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `Tkinter`, `JSON`, `APIs` | [View Project](./IntermediateProject-Password-Manager/) |
