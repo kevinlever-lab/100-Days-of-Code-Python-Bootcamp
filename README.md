@@ -41,7 +41,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **NATO Phonetic Alphabet** | Convert a word with the NATO Phonetic Alphabet.| `pandas`, `data frames`, `dictionary comprehension`, `list comprehension`, `error handling` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
 | **Pomodoro Timer Project** | A graphical Pomodoro productivity timer.| `tkinter`, `math`, `functions`, `global variables` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
 | **Password Manager** | A GUI that generates secure passwords and saves/retrieves the web site credentials to/from a JSON file. | `tkinter`, `JSON`, ` tkinter messagebox`, `random`, `pyperclip`, `read/write from/to files`, `error handling` | [View Project](./IntermediateProject-Password-Manager/) |<br>
-| **Intermediate Capstone Project #2 - Flash Card** | A graphical French-to-English flash card learning application which retrieves/saves text from/to csv files. | `tkinter`, ` tkinter messagebox`, `random`, 'pandas', `os`, `read/write from/to files`, `error handling`, 'dictionaries', 'file handling' | [View Project](./IntermediateCapstoneProject#2-Flash-Card-Learning-App/) |
+| **Intermediate Capstone Project #2 - Flash Card** | A graphical French-to-English flash card learning application which retrieves/saves text from/to csv files. | `tkinter`, ` tkinter messagebox`, `random`, `pandas`, `os`, `read/write from/to files`, `error handling`, `dictionaries`, `file handling` | [View Project](./IntermediateCapstoneProject#2-Flash-Card-Learning-App/) |
 - [ ] **Intermediate+ Phase:** <br>
 - [ ] **Web Foundation Phase:** <br>
 - [ ] **Advanced Phase:** <br>
