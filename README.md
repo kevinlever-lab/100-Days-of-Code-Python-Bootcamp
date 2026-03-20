@@ -36,7 +36,7 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 | **5. Pong Game** | The classic Atari game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
 | **6. Intermediate Capstone Project #1 - Turtle Cossing Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject#1-Turtle-Crossing-Game/) |<br>
 | **7. Mail Merge** | Automation for creating personalised invitations.| `reading/writing from/to files`, `text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
-| **8. Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `dataframes`, `querying data`, `reading/writing from/to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
+| **8. Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `dataframes`, `querying data`, `reading/writing from/to files` | [View Project](./IntermediateProject-NY-Squirrel/) |<br>
 | **9. USA States** | GUI game where the player attempts to name all 50 USA states.| `turtle graphics`, `pandas`, `dataframes`, `list comprehension`, `reading/writing from/to files` | [View Project](./IntermediateProject-USA-States/) |<br>
 | **10. NATO Phonetic Alphabet** | Convert a word with the NATO Phonetic Alphabet.| `pandas`, `data frames`, `dictionary comprehension`, `list comprehension`, `error handling` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
 | **11. Pomodoro Timer Project** | A graphical Pomodoro productivity timer.| `tkinter`, `math`, `functions`, `global variables` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
