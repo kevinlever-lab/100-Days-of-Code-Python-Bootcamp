@@ -7,13 +7,13 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 
 
 ## 🚀 Progress Tracker
-- [ ] **Beginner Phase :** Python Fundamentals (Basics, Logic, Loops) - Completed
-- [ ] **Intermediate Phase:** Intermediate Concepts (OOP, File I/O, Error Handling, GUI)  - Completed
+- [ ] **Beginner Phase :** Python Fundamentals (Basics, Logic, Loops) **- Completed**
+- [ ] **Intermediate Phase:** Intermediate Concepts (OOP, File I/O, Error Handling, GUI)  **- Completed**
 - [ ] **Intermediate+ Phase:** Advanced Applications (Email, APIs, Authentication, Stock Alerts, Tracking with Google Sheets, Flight Finder/Club)
 - [ ] **Web Foundation Phase:** Web Development Fundamentals
 - [ ] **Intermediate+ Phase:** Advanced Applications (Web Scraping, Spotify Playlist, Amazon Tracker, Bot interaction, Web Development)
 - [ ] **Advanced Phase:** Advanced Applications (Blog, Web Forms, Databases & SQL, Web Design, RESTful Routing, Blog, Git/GitHub, Data Exploration, Data Visualisation, Data Computation, Linear Regression)
-- [ ] **Professional Portfolio Project Phase:**Projects(Python Scripting, GUI, Web Development, GUI Desktop, HTTP Requests and APIs, Image Processing, Data Science, Automation)
+- [ ] **Professional Portfolio Project Phase:** Projects(Python Scripting, GUI, Web Development, GUI Desktop, HTTP Requests and APIs, Image Processing, Data Science, Automation)
 
 ---
 
@@ -22,24 +22,27 @@ Welcome to my central repository for the 100 Days of Code (TM): The Complete Pyt
 
 | Project Name | Description | Key Libraries/Skills | Link |
 | :--- | :--- | :--- | :--- |
-- [ ] **Beginner Phase :** 
-| **Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](./Beginner - Basics/Guess Number) |
-| **Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](./Beginner - Basics/Secret Auction) |
-| **Blackjack Game** | A command-line card game. | `random`, `functions`, 'list' | [View Project](./Beginner Project - Blackjack/) |
-| **Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](./Beginner Project - Higher Lower) |
-- [ ] **Intermediate Phase:**
-| **Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./Intermediate Project - Coffee Machine/) |
-| **Turtle Racing Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Turtle Racing Game/) |
-| **Snake Game** | Game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Snake Game/) |
-| **Pong Game** | The classic Atari game built with GUI. | `Turtle Graphics`, `OOP`, `classes` | [View Project](./Intermediate Project - Pong Game/) |
-| **Capstone Project - Turtle Cossing Game* | Game built with GUI. | `turtle`, `OOP`, `classes` | [View Project](./Intermediate Project - Turtle Cossing Game/) |
-| **Invitations** | Automation for creating invitations. Reading and writing to files.| `pandas`, `Dataframes and Series` | [View Project](./Intermediate Project - Invitations Project/) |
-| **Squirrel Project** | Reading and writing to csv files.| `pandas`, `Dataframes and Series` | [View Project](./Intermediate Project - Squirrel Project/) |
-| **NATO phonetic alphabet ** | Code and decode text.| `List and Dictionary comprehension` | [View Project](./Intermediate Project - NATO phonetic alphabet Project/) |
-| **Pomodoro Timer Project** | GUI timer.| `Tkinter` | [View Project](./Intermediate Project - Pomodoro Timer Project/) |
-| **Squirrel Project** | GUI timer | `Tkinter`, `Dataframes and Series` | [View Project](./Intermediate Project - Squirrel Project/) |
-| **Password Manager** | A GUI that generates passwords and saves/retrieves the web site name and corresponding password to/from a JSON file. | `Tkinter`, `JSON`, `APIs` | [View Project](./Intermediate Project - Password Manager/) |
-- [ ] **Intermediate+ Phase:** 
-- [ ] **Web Foundation Phase:** 
-- [ ] **Advanced Phase:** 
+- [ ] **Beginner Phase :** <br>
+| **1. Hangman Game** | A command-line Hangman game. | `list`| [View Project](Beginner%20Project%20-%20Hangman/) |<br>
+| **2. Secret Auction Game** | A command-line auction game. | `dictionary`| [View Project](Beginner%20-%20Basics/) |<br>
+| **3. Blackjack Game** | A command-line card game. | `random`, `functions`, `list` | [View Project](Beginner%20Project%20-%20Blackjack/) |<br>
+| **4. Number Guessing Game** | A command-line guessing game. | `random`, `functions` | [View Project](Beginner%20-%20Basics/) |<br>
+| **5. Higher or Lower Guessing Game** | A command-line guessing game. | `random`, `dictionary` | [View Project](Beginner%20Project%20-%20Higher%20Lower/) |<br>
+- [ ] **Intermediate Phase:** <br>
+| **1. Coffee Machine** | Coffee machine ordering system. | `OOP`| [View Project](./IntermediateProject-CoffeeMachine/) |<br>
+| **2. Quiz Game** |  A command-line card game. | `OOP`| [View Project](./IntermediateProject-Quiz-Game/) |<br>
+| **3. Turtle Racing Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Turtle-Racing-Game/) |<br>
+| **4. Snake Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes`, `reading/writing from/to files` | [View Project](./IntermediateProject-Snake-Game/) |<br>
+| **5. Pong Game** | The classic Atari game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateProject-Pong-Game/) |<br>
+| **6. Intermediate Capstone Project #1 - Turtle Cossing Game** | Game built with GUI. | `turtle graphics`, `OOP`, `classes` | [View Project](./IntermediateCapstoneProject#1-Turtle-Crossing-Game/) |<br>
+| **7. Mail Merge** | Automation for creating personalised invitations.| `reading/writing from/to files`, `text editing` | [View Project](./IntermediateProject-Mail-Merge) |<br>
+| **8. Squirrel Analysis** | Counts the number of different coloured squirrels from a survey csv file.| `pandas`, `dataframes`, `querying data`, `reading/writing from/to files` | [View Project](./IntermediateProject-Squirrel-Tracking/) |<br>
+| **9. USA States** | GUI game where the player attempts to name all 50 USA states.| `turtle graphics`, `pandas`, `dataframes`, `list comprehension`, `reading/writing from/to files` | [View Project](./IntermediateProject-USA-States/) |<br>
+| **10. NATO Phonetic Alphabet** | Convert a word with the NATO Phonetic Alphabet.| `pandas`, `data frames`, `dictionary comprehension`, `list comprehension`, `error handling` | [View Project](./IntermediateProject-NATO-Phonetic-Alphabet/) |<br>
+| **11. Pomodoro Timer Project** | A graphical Pomodoro productivity timer.| `tkinter`, `math`, `functions`, `global variables` | [View Project](./IntermediateProject-Pomodoro-Timer/) |<br>
+| **12. Password Manager** | A GUI that generates secure passwords and saves/retrieves the web site credentials to/from a JSON file. | `tkinter`, `JSON`, ` tkinter messagebox`, `random`, `pyperclip`, `read/write from/to files`, `error handling` | [View Project](./IntermediateProject-Password-Manager/) |<br>
+| **13. Intermediate Capstone Project #2 - Flash Card** | A graphical French-to-English flash card learning application which retrieves/saves text from/to csv files. | `tkinter`, ` tkinter messagebox`, `random`, `pandas`, `os`, `read/write from/to files`, `error handling`, `dictionaries`, `file handling` | [View Project](./IntermediateCapstoneProject#2-Flash-Card-Learning-App/) |
+- [ ] **Intermediate+ Phase:** <br>
+- [ ] **Web Foundation Phase:** <br>
+- [ ] **Advanced Phase:** <br>
 
